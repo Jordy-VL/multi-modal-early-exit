@@ -3,6 +3,14 @@
 
 ![paper figure](https://github.com/Jordy-VL/multi-modal-early-exit/blob/main/EE/images/EE_design.jpg)
 
+## Calibration effect on Ramps vs Gates
+
+- **Gates**
+  ![gates figure](https://github.com/Jordy-VL/multi-modal-early-exit/blob/main/EE/images/Calibration-effect-gate.drawio.png)
+
+- **Ramps**
+  ![ramps figure](https://github.com/Jordy-VL/multi-modal-early-exit/blob/main/EE/images/Calibration-effect-ramps.drawio.png)
+
 ## Installation
 
 The scripts require [python >= 3.8](https://www.python.org/downloads/release/python-380/) to run.
