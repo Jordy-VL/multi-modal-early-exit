@@ -1,4 +1,4 @@
-# An efficient multi-modal multi-exit architecture for document image classification 
+# Multimodal Adaptive Inference for Document Image Classification with Anytime Early Exiting
 
 
 ![paper figure](https://github.com/Jordy-VL/multi-modal-early-exit/blob/main/EE/images/EE_design.jpg)
