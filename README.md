@@ -29,10 +29,10 @@ poetry install
 Next step, install those system libraries
 ```
 sudo apt install tesseract-ocr
-pip install -q datasets
+pip install -q datasets -U
 pip install -q pytesseract
-pip install git-lfs
-pip install libtesseract-dev
-pip install libleptonica-dev
+sudo apt install git-lfs
+sudo apt install libtesseract-dev
+sudo apt install libleptonica-dev
 ```
 
