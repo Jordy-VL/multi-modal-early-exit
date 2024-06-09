@@ -28,6 +28,7 @@ pillow = "^9.4.0"
 wandb = "^0.17.1"
 sacred = "^0.8.5"
 fvcore = "^0.1.5"
+accelerate = "^0.21.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.10.1"
