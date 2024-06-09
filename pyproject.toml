@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "EE"
 version = "0.1.0"
-description = "Multimodal EE Environment"
+description = "something"
 authors = ["ANON"]
 
 readme = 'README.md'  # Markdown files are supported
@@ -25,15 +25,15 @@ transformers = "^4.26.0"
 pandas = "^1.5.3"
 torch = "^1.13.1"
 pillow = "^9.4.0"
-datasets = "^1.16.0"
-pytesseract = "^0.4.0"
+wandb = "^0.17.1"
+sacred = "^0.8.5"
+fvcore = "^0.1.5"
+accelerate = "^0.21.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.10.1"
 pytest-cov = "^2.9.0"
-git-lfs = "^2.13.3"
-libtesseract-dev = "^4.1.1"
-libleptonica-dev = "^1.80.0"
+
 
 [build-system]
 requires = ["poetry-core"]
