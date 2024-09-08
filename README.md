@@ -55,5 +55,3 @@ We welcome contributions to the project! Here's how you can get involved:
     git push origin feature/your-feature-name
     ```
 5. **Create a Pull Request**: Go to the original repository and create a pull request from your forked repository. Provide a clear description of your changes and any related issues.
-
-Thank you for your contributions!
